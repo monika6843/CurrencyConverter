@@ -1,0 +1,21 @@
+const countryList = {
+USD: "US",
+INR: "IN",
+ AED: "AE",
+AFN: "AG",
+ALL: "AL",
+ADA: "AD",
+ARS: "AR",
+AUD: "AU",
+AZN: "AZ",
+BAM: "BA",
+BBD: "BB",
+BDT: "BD",
+XOF: "BE",
+BGN: "BG",
+BHD: "BH",
+BIF: "BI",
+BOB: "BO",
+BRL: "BR",
+BSD: "BS"
+};
